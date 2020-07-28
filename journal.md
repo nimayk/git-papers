@@ -1,4 +1,5 @@
 #Hello there 
 Author: Nimay Kulkarni
 
-#write introduction section
+Introduction: This is the introduction
+Based on the paper from Smith 2009.
